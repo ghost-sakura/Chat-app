@@ -33,3 +33,10 @@ A simple and interactive real-time chat application built using **Node.js**, **E
 
 ### Open your browser:
 Copy code `http://localhost:3000`
+
+---
+
+## Screenshot
+ <img width="500" height="500" alt="Screenshot 2025-12-18 214441" src="https://github.com/user-attachments/assets/8edbd726-c4f9-40a3-befd-67a1e08921b8" />
+
+
